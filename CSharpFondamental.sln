@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{BC898B89-B227-4A10-BE2C-0CD0ADE7FEC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutions", "Solutions", "{880F40E3-73D6-4066-9481-ABE5A79DF8F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSample", "RangeSample\RangeSample.csproj", "{2BB69E8D-6859-461E-A2D6-979E1E53A038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB69E8D-6859-461E-A2D6-979E1E53A038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB69E8D-6859-461E-A2D6-979E1E53A038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB69E8D-6859-461E-A2D6-979E1E53A038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB69E8D-6859-461E-A2D6-979E1E53A038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BB69E8D-6859-461E-A2D6-979E1E53A038} = {BC898B89-B227-4A10-BE2C-0CD0ADE7FEC3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7225090A-1AC4-4513-B0B3-571E901F073C}
+	EndGlobalSection
+EndGlobal
