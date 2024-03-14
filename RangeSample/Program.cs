@@ -19,15 +19,6 @@
             Index index3 = new Index(value: 2, fromEnd: true);
             Console.WriteLine(text[index3..]);
             Console.WriteLine(text[^2..]);
-
-            int[] ints = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
-
-            int[] result = ints[0..^5];
-
-            foreach (int i in result)
-            {
-                Console.WriteLine(i);
-            }
         }
     }
 }
